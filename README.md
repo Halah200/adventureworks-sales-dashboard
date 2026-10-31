@@ -1,7 +1,7 @@
 # adventureworks-sales-dashboard
 -AdventureWorks sales analysis dashboard built in Power BI
-#Business Questions
--
+# Business Questions
+The company has experienced revenue growth, while management wants to understand whether this growth is translating into profitability at the same pace. There are also performance differences across regions and products, which calls for analyzing sales, profitability, and customers to identify the key drivers and support data-driven decisions.
 ## Tools Used
 - Power BI
 - DAX
